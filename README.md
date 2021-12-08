@@ -1,0 +1,3 @@
+# Face-Mask-Detection
+
+Used transfer learning for the model with the help of vgg16 created a mask detection model which tells us if a person is wearing a mask or not...
